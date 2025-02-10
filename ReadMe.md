@@ -41,5 +41,16 @@
 
 3. **Install Required Dependencies:**  
    Open a terminal in the project directory and run:  
-   ```bash
    pip install -r requirements.txt
+
+# 🚀 Future Improvements
+ - Reminders and Notifications: Integrate automated reminders for upcoming application deadlines or interviews.
+ - User Authentication: Enable multiple users to create personal profiles and track individual job applications.
+ - Cloud Deployment: Expand the app to a cloud-based solution using services like AWS or GCP.
+ - Resume Optimization Suggestions: Analyze job descriptions and resumes to provide optimization suggestions for better alignment.
+
+# 🙏 Acknowledgments
+ - Special thanks to the open-source community and tutorials that guided the Flask server setup:
+    - [Flask Server Setup](https://www.youtube.com/watch?v=MKG5BpZbOa4)
+    - [Virtual Environment Setup for macOS](https://www.youtube.com/watch?v=0hInltB9QNY)
+This project was built as a hands-on exploration of full-stack development and project deployment, applying knowledge gained from coursework and practical experience.
